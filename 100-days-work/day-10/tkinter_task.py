@@ -1,5 +1,5 @@
-import tkinter
-import tkinter.messagebox
+import tkinter_task
+import tkinter_task.messagebox
 
 
 def main():
